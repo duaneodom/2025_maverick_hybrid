@@ -8,4 +8,4 @@
 
 ## Stock Radio Signal/Stock Speaker Wire Connection
 
-    I used a PACxxxx T-Harness to connect into the stock radio wiring
+    I used a PAC LPHFD31 LocPro Advanced T-Harness to connect into the stock radio wiring.
